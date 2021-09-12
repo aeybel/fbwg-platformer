@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ICS3UI_final" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SDL_finalTest" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SDL_finalTest" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="E:/i686-w64-mingw32/include/SDL2" />
+			<Add directory="E:/sdl2-files/SDL2-2.0.7/i686-w64-mingw32/include/SDL2" />
+		</Compiler>
+		<Linker>
+			<Add option="-lmingw32 -lSDL2main -lSDL2" />
+			<Add option="-lSDL2_image" />
+			<Add directory="E:/i686-w64-mingw32/lib" />
+			<Add directory="E:/sdl2-files/SDL2-2.0.7/i686-w64-mingw32/lib" />
+		</Linker>
+		<Unit filename="blocks.cpp" />
+		<Unit filename="blocks.h" />
+		<Unit filename="door.cpp" />
+		<Unit filename="door.h" />
+		<Unit filename="ground.cpp" />
+		<Unit filename="ground.h" />
+		<Unit filename="header.h" />
+		<Unit filename="lever.cpp" />
+		<Unit filename="lever.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="player.cpp" />
+		<Unit filename="player.h" />
+		<Unit filename="spritetypes.h" />
+		<Unit filename="texture.cpp" />
+		<Unit filename="texture.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

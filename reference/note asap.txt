@@ -1,0 +1,11 @@
+NOTE:
+When the player jumps somewhere
+where the first collision box fits
+but the second does not, the player
+needs to be pushed away from the surface
+and then fall towards the ground.
+The player can only stand on its bottom
+collision box.
+Fix ASAP!!!
+
+mostly fixed?

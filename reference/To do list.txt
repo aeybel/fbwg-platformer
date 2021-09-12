@@ -1,0 +1,21 @@
+A few different things that you may want to consider trying:
+-Moving an object to a position by clicking (Solitaire) ycompleted
+-Checking if two objects match (Mahjong)
+-Different movement types with different buttons (FB&WG) ycompleted
+
+Fireboy and Watergirl replica:
+-Check jumping movement yy
+-Collision detection and gravity yy
+-Building the world - base tiles yy
+-Fire, water and mud, character death yy
+-Character animation
+-Doors: finishing the level yy
+-Moving platforms yy
+-Switches and pushers yy
+-Pushable objects, balls nn
+-Diamonds
+-Weights/scales
+-Air thingies
+-Teeters
+-Timer nn
+-Polishing

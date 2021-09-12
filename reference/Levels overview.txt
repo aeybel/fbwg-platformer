@@ -1,0 +1,65 @@
+FBaWG levels
+Level 1:
+Basics, levers, pushers, blocks, text
+Level 2:
+Basics, turners, pushers
+Level 3:
+Basics, air thingies
+Level 4:
+Basics, pushers, levers, blocks gravity, weights
+Level 5:
+Basics, pushers, weights
+Level 6:
+Basics
+Level 7:
+Basics, balls, pushers, levers
+Level 8:
+Basics, pushers, blocks gravity, levers
+Level 9:
+Basics, levers
+Level 10:
+Basics, blocks, levers
+Level 11:
+Basics, levers, pushers, balls
+Level 12:
+Basics, air thingies, levers
+Level 13:
+Basics, levers
+Level 14:
+Basics, levers
+Level 15:
+Basics, turners
+Level 16:
+Levers, blocks
+Level 17:
+Teeters, weights, pushers, blocks
+Level 18:
+Basics, air thingies, levers, turners
+Level 19:
+Basics, air thingies, levers
+Level 20:
+Basics, weights, blocks, levers, balls
+Level 21:
+Air thingies
+Level 22:
+Basics, levers, pushers, air thingies, balls
+Level 23:
+Basics, teeters, blocks
+Level 24:
+Levers, pushers
+Level 25:
+Basics, levers
+Level 26:
+Levers
+Level 27:
+Basics, air thingies, weights, blocks
+Level 28:
+Air thingies, pushers
+Level 29:
+Basics, levers, pushers
+Level 30:
+Basics, levers, pushers
+Level 31:
+Basics, turners, pushers, balls
+Level 32:
+Levers, pushers, air thingies

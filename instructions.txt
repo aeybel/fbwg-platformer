@@ -1,0 +1,14 @@
+Instructions for play:
+
+1. The two coloured dots are the player characters. The red dot can be moved using the arrow keys and the blue dot can be moved using the WAD keys.
+2. The goal of the game is to finish the level by reaching the doors. The doors appear as dark blue and red rectangles. The red player character must stand in front of the red door and the blue player character must stand in front of the blue door.
+3. The bright rectangles are various types of ground, which affect the different player characters:
+a) Both player characters can stand on the grey ground.
+b) The red player can stand on the red ground, but the blue player will die if it stands on the red ground.
+c) The blue player can stand on the blue ground, but the red player will die if it stands on the blue ground.
+d) Both players will die if they stand on the green ground.
+e) When the player dies, the level will reset completely.
+4. "Levers" and "pushers" are can be turned "on" or "off".
+a) Levers appear as two rectangles side by side, one red and one green, which are inside of a larger rectangle of a base colour. Walking by one of them from the green side will "switch" the lever on/off.
+b) Pushers appear as one red or green square inside of a larger square. These can be turned on by touching them. They are on when they are green, and off when they are red.
+c) Levers and pushers will cause a piece of ground to move when on. This piece of ground will have a larger rectangle the same colour as the background of the switch/lever to indicate the pair. The piece of ground will also have a smaller rectangle inside which is red or green to indicate the on/off setting of the lever.

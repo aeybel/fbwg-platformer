@@ -1,0 +1,4 @@
+1. The block must fall to the ground. yy
+2. The block must be pushed in the right direction by the player.
+3. The block must stop if it hits a wall.
+4. The player must stop if it hits a block against a wall.
